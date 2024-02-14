@@ -1,0 +1,35 @@
+Efficient and Privacy Preserving Decision Tree Classification for Health Monitoring Systems
+
+Cloud computing, decision tree classification,health monitoring systems, symmetric key encryption.
+
+
+Efficient_and_Privacy_Preserving
+
+efficient_and_privacy_preserving
+
+
+heart rate,blood pressure and blood oxygen concentration.
+
+Wearable_Sensor_Reading_Id
+
+
+
+Health_Monitoring
+
+  wsrid
+  age
+  sex
+  cp
+  bp
+  chol
+  fbs
+  ekg
+  hr
+  ex_angina
+  stdep
+  slope
+  nov
+  thal
+  olevel
+  prediction
+ 

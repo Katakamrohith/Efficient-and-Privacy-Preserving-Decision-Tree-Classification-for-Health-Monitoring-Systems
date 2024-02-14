@@ -1,0 +1,40 @@
+Service Provider
+
+Login,
+Train and Test Data Sets View Train and Test Results, 
+View Trained and Tested Results By Bar Chart, 
+View All Health Monitoring Prediction Type ,
+Find Health Monitoring Ratio Type, 
+View Health Monitoring Ratio Results,
+Download Trained Data Sets, 
+View All Remote Users. 
+
+
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT HEALTH MONITORING STATUS,
+VIEW YOUR PROFILE.
+
+Members
+
+  wsrid
+  age
+  sex
+  cp
+  bp
+  chol
+  fbs
+  ekg
+  hr
+  ex_angina
+  stdep
+  slope
+  nov
+  thal
+  olevel
+  prediction
+ 
